@@ -1,0 +1,9 @@
+{
+	"python_interpreter":"/usr/bin/python3",
+	"anaconda_linter_phantoms": true,
+	"pep8":false,
+	"pep257":false,
+	//"anaconda_linter_mark_style":"none",
+	"anaconda_gutter_theme":"Bright",
+	//"anaconda_linter_underlines":false,
+}

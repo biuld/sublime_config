@@ -1,0 +1,14 @@
+{
+	"binary": "clang-format-8",
+	"format_on_save": true,
+	"languages":
+	[
+		"C",
+		"C++",
+		"C++11",
+		"JavaScript",
+		"Objective-C",
+		"Objective-C++"
+	],
+	"style": "WebKit"
+}

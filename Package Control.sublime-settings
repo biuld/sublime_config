@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Anaconda",
+		"C++ Completions",
+		"ChineseLocalizations",
+		"Clang Format",
+		"ColorHelper",
+		"DocBlockr",
+		"GitGutter",
+		"HTMLBeautify",
+		"JavaIME",
+		"JavaScript Completions",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+		"SublimeLinter-javac",
+		"Terminal",
+		"Theme - Gravity"
+	]
+}
